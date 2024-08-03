@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - DigitalHeart</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+        }
+        h1 {
+            color: #009688;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DigitalHeart: Your Cybersecurity Companion</h1>
+        <p>
+            At DigitalHeart, we understand that in our digital world, security is paramount. No matter where you are, whatever you do, we believe you have the right to a secure digital experience.
+        </p>
+        <p>
+            DigitalHeart is an application designed to clean files from cyberattacks, enhancing security and building trust among community members. Our mission is to provide a safe and secure digital environment for everyone.
+        </p>
+        <p>
+            For more information, please feel free to <a href="mailto:support@digitalheart.com">contact us</a>.
+        </p>
+    </div>
+</body>
+</html>
